@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "80374075731",
+    "project_id": "gizter-d5064",
+    "storage_bucket": "gizter-d5064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80374075731:android:fdaa88df149e5eaa4f51a6",
+        "android_client_info": {
+          "package_name": "com.example.gizter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80374075731-pcvr5s4u6s554clnbn7vqfqgmpvgg3v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB15XNB_F2ut6WfL73COa9UHuyzw2vxhHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80374075731-pcvr5s4u6s554clnbn7vqfqgmpvgg3v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80374075731-mtub1t2ptr5605476g5p0uj5jhagm120.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gizter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
