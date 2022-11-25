@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 void main() {
-  runApp(const GizterApp());
+  runApp(const ProviderScope(child: GizterApp()));
 }
 
 class GizterApp extends StatelessWidget {
